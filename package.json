@@ -1,0 +1,14 @@
+{
+  "name": "pepito",
+  "version": "0.0.1",
+  "description": "bot npall",
+  "main": "lol.js",
+  "scripts": {
+    "start": "node lol.js"
+  },
+  "author": "lylian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
